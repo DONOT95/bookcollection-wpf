@@ -8,6 +8,7 @@ obj/
 *.pdb
 *.exe
 *.dll
+*.lnk
 
 # OS
 Thumbs.db
